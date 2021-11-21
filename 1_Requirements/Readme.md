@@ -1,59 +1,59 @@
-# Requirements
-## Software Requirements:
---- Operating system: Windows XP/ 2000/ Vista/ 7/ 8/ 10. 
-    Front End: Microsoft Visual studio 2005.
-    Back End: AS. NET.
-    Database: Microsoft SQL Server.
-## Hardware Requirements:
---- RAM: 1 GB or above.
-Hard disk: Minimum 20 GB free space.
-Processor: Pentium 4 (1.6 GHz) or higher.
-
+# REQUIREMENTS
 ## Introduction
- --- The marksheet generator is a system which allows the 
-digital automation of the mark-sheets of the students. The 
-system will generate the mark-sheets in Portable 
-Document Format which is globally accepted format for 
-files. The PDF document is very difficult to modify and 
-requires the use of the complex software.
-To simply put, system is to provide the mark-sheet for 
-credits based grading system in user friendly and secure 
-manner. The credits based grading system enables a 
-much require shift in focus from teacher-centric to 
-learner-centric education. It also focuses on the 
-continuous evaluation which will enhance the quality of 
-education. It is very much essential to implement credits 
-based grading system based higher education worldwide. 
-The efficiency of the system would increase in a leap 
-and bounds considering the fact that system will be 
-automated & would be corruption free. Along with the 
-above mentioned privileges, it also ensures security &
-spreads the awareness about the university rules and regulation. 
+#### The marksheet generator is a system which allows the digital automation of the mark-sheets of the students. The project aims at developing a marksheet generation system which can be used in universities to automate the distribution of digitally verifiable student result mark sheets. The system accesses the student's results information from the institute student database and generates the mark shteets. Aim is to generate marksheets system C Programming Language.
 ## Research
-![Description](Link to Pic)
--- Content 
-## Cost and Features and Timeline
-![Description](Link to Pic)
--- Content 
-## Defining Our System
-    -- TBD
+#### [Research Link](https://www.researchgate.net/publication/287718426_PDF_Marksheet_Generator)
+## Features
+####  - Entering rollno
+####  - entering name
+####  - class
+####  - marks
+## Defining our system
+####  Our system used to generate the marksheet for the students and have the set of operations for the students to entering rollno, name, class, marks.
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
-# 4W&#39;s and 1&#39;H
-## Who:
-**TBD**
-## What:
-**TBD**
-## When:
-**TBD**
-## Where:
-**TBD**
-## How:
-**TBD**
-# Detail requirements
-## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
-##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+#### 1. Strength
+####    - Manual entry of scores/ grades of students
+####    -Auto-calculate final and course grades
+#### 2. Weakness
+####    - Unavailability of hardware
+####    - Lack of user friendly interface
+#### 3. Oppurtunities
+####    - Innovations
+####    - Providing easy access for students
+#### 4. Threats
+####    - Privacy issues
+####    - Doing Fraud
+## 4W's and 1'H
+### Who : 
+#### students can access the site.
+
+    
+          
+            
+    
+
+          
+    
+    
+  
+### What :
+#### overall grade of the students.
+### When :
+#### When students need their marksheet they can access.
+### Where :
+#### At present the project execution lunch locally on system
+### How :
+#### Based on the research, identifying the features and implementing the requirements in the C programming language and test them to deliverying the product.
+## Detail Requirements
+### High level requirements
+| ID | Description | Status |
+|----|-------------|--------|
+| 1 | User should able to enter the details in the form | Implemented |
+| 2 | The console should include the operations list | Implemented |
+| 3 | New user should able to access the form | Implemented |
+### Software Requirements
+| ID | Description | Status |
+|----|-------------|--------|
+| 1 | While accessing the form it wouldn't effect the another user| Implemented |
+| 2 | Processing of data in form should be accurated | Implemented |
+| 3 | Duplicate of user details should be avoided | Implemented |
