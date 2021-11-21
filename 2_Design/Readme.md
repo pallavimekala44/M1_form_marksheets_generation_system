@@ -1,5 +1,3 @@
-# Design
-
 # Architecture
 ## Behavioural Diagrams
 #### - Activity Diagram
