@@ -1,4 +1,14 @@
 # Requirements
+## Software Requirements:
+--- Operating system: Windows XP/ 2000/ Vista/ 7/ 8/ 10. 
+    Front End: Microsoft Visual studio 2005.
+    Back End: AS. NET.
+    Database: Microsoft SQL Server.
+## Hardware Requirements:
+--- RAM: 1 GB or above.
+Hard disk: Minimum 20 GB free space.
+Processor: Pentium 4 (1.6 GHz) or higher.
+
 ## Introduction
  --- The marksheet generator is a system which allows the 
 digital automation of the mark-sheets of the students. The 
