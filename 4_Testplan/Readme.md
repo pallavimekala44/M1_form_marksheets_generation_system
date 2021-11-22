@@ -4,8 +4,8 @@
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |  H_01       |Invalid Input|  Name:######## Rollno:8888|error|error|Requirement based |
-|  H_02       |Check the login details|  Name:Pallavi Password:150|0|0|Scenario based    |
-|  H_03       |Invalid range of input|  Name:1ab2gc Password:17131a|-6|-6|Boundary based    |
+|  H_02       |Check the login details|  Name:Pallavi Rollno:150|0|0|Scenario based    |
+|  H_03       |Invalid range of input|  Name:1ab2gc Rollno:17131a|-6|-6|Boundary based    |
 
 ## Table no: Low level test plan
 
