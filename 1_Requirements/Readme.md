@@ -1,15 +1,15 @@
 # REQUIREMENTS
 ## Introduction
-####  The marksheet generator is a system which allows the digital automation of the mark-sheets of the students. The project aims at developing a marksheet generation system which can be used in universities to automate the distribution of digitally verifiable student result mark sheets. The system accesses the student's results information from the institute student database and generates the mark shteets. Aim is to generate marksheets system C Programming Language.
+### The marksheet generator is a system which allows the digital automation of the mark-sheets of the students. The project aims at developing a marksheet generation system which can be used in universities to automate the distribution of digitally verifiable student result mark sheets. The system accesses the student's results information from the institute student database and generates the mark shteets. Aim is to generate marksheets system C Programming Language
 ## Research
-#### [Research Link](https://www.researchgate.net/publication/287718426_PDF_Marksheet_Generator)
+### [Research Link](https://www.researchgate.net/publication/287718426_PDF_Marksheet_Generator)
 ## Features
-#### -Entering rollno
-#### -entering name
-#### -class
-#### -marks
+### -Entering rollno
+### -entering name
+### -class
+### -marks
 ## Defining our system
-### Our system used to generate the marksheet for the students and have the set of operations for the students to entering rollno, name, class, marks.
+### Our system used to generate the marksheet for the students and have the set of operations for the students to entering rollno, name, class, marks
 ## SWOT ANALYSIS
 #### 1 Strength
 #### - Manual entry of scores/ grades of students
