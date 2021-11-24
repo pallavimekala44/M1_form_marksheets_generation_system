@@ -11,21 +11,21 @@
 ## Defining our system
 ####  Our system used to generate the marksheet for the students and have the set of operations for the students to entering rollno, name, class, marks.
 ## SWOT ANALYSIS
-#### 1. Strength
+#### 1 Strength
 ####    - Manual entry of scores/ grades of students
 ####    -Auto-calculate final and course grades
-#### 2. Weakness
+#### 2 Weakness
 ####    - Unavailability of hardware
 ####    - Lack of user friendly interface
-#### 3. Oppurtunities
+#### 3 Oppurtunities
 ####    - Innovations
 ####    - Providing easy access for students
-#### 4. Threats
+#### 4 Threats
 ####    - Privacy issues
 ####    - Doing Fraud
 ## 4W's and 1'H
-### Who : 
-#### students can access the site.
+### Who
+#### students can access the site
 
     
           
@@ -36,14 +36,14 @@
     
     
   
-### What :
-#### overall grade of the students.
-### When :
-#### When students need their marksheet they can access.
-### Where :
+### What
+#### overall grade of the students
+### When 
+#### When students need their marksheet they can access
+### Where 
 #### At present the project execution lunch locally on system
-### How :
-#### Based on the research, identifying the features and implementing the requirements in the C programming language and test them to deliverying the product.
+### How 
+#### Based on the research, identifying the features and implementing the requirements in the C programming language and test them to deliverying the product
 ## Detail Requirements
 ### High level requirements
 | ID | Description | Status |
