@@ -1,5 +1,5 @@
-# TEST PLAN:
-## Table no: High level test plan
+# TEST PLAN
+## Table no High level test plan
 
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
@@ -7,7 +7,7 @@
 |  H_02       |Check the login details|  Name:Pallavi Rollno:150|0|0|Scenario based    |
 |  H_03       |Invalid range of input|  Name:1ab2gc Rollno:17131a|-6|-6|Boundary based    |
 
-## Table no: Low level test plan
+## Table no Low level test plan
 
 | **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
