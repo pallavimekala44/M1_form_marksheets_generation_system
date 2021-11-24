@@ -4,38 +4,28 @@
 ## Research
 #### [Research Link](https://www.researchgate.net/publication/287718426_PDF_Marksheet_Generator)
 ## Features
-####  - Entering rollno
-####  - entering name
-####  - class
-####  - marks
+#### -Entering rollno
+#### -entering name
+#### -class
+#### -marks
 ## Defining our system
-####  Our system used to generate the marksheet for the students and have the set of operations for the students to entering rollno, name, class, marks.
+#### Our system used to generate the marksheet for the students and have the set of operations for the students to entering rollno, name, class, marks.
 ## SWOT ANALYSIS
 #### 1 Strength
-####    - Manual entry of scores/ grades of students
-####    -Auto-calculate final and course grades
+#### - Manual entry of scores/ grades of students
+#### -Auto-calculate final and course grades
 #### 2 Weakness
-####    - Unavailability of hardware
-####    - Lack of user friendly interface
+#### - Unavailability of hardware
+#### - Lack of user friendly interface
 #### 3 Oppurtunities
-####    - Innovations
-####    - Providing easy access for students
+#### - Innovations
+#### - Providing easy access for students
 #### 4 Threats
-####    - Privacy issues
-####    - Doing Fraud
+#### - Privacy issues
+#### - Doing Fraud
 ## 4W's and 1'H
 ### Who
-#### students can access the site
-
-    
-          
-            
-    
-
-          
-    
-    
-  
+#### students can access the site                                             
 ### What
 #### overall grade of the students
 ### When 
