@@ -11,7 +11,7 @@
 ## Defining our system
 ### Our system used to generate the marksheet for the students and have the set of operations for the students to entering rollno, name, class, marks
 ## SWOT ANALYSIS
-#### 1 Strength
+### 1 Strength
 #### - Manual entry of scores/ grades of students
 #### -Auto-calculate final and course grades
 #### 2 Weakness
