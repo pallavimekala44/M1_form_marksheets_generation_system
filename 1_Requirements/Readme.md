@@ -25,9 +25,9 @@
 #### - Doing Fraud
 ## 4W's and 1'H
 ### Who
-#### students can access the site                                             
+#### Students can access the site                                             
 ### What
-#### overall grade of the students
+#### Overall grade of the students
 ### When 
 #### When students need their marksheet they can access
 ### Where 
