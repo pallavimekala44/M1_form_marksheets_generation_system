@@ -1,8 +1,8 @@
 # Architecture
 ## Behavioural Diagrams
-### Usecase Diagram
+## Usecase Diagram
 ### Sequence Diagram
 ## Structural Diagrams
-### Class Diagram
+## Class Diagram
 ### Package Diagram
 ### Deployment Diagram
