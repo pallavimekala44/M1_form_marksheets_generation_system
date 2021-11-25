@@ -10,4 +10,4 @@
 # Build Windows
 [![Build Windows](https://github.com/pallavimekala44/M1_form_marksheets_generation_system/actions/workflows/buildwindows.yml/badge.svg)](https://github.com/pallavimekala44/M1_form_marksheets_generation_system/actions/workflows/buildwindows.yml)
 # Codacy
-![Codacy Badge](https://app.codacy.com/project/badge/Grade/5dd59a6341854624acd94932832c826b)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5dd59a6341854624acd94932832c826b)](https://www.codacy.com/gh/pallavimekala44/M1_form_marksheets_generation_system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pallavimekala44/M1_form_marksheets_generation_system&amp;utm_campaign=Badge_Grade)
