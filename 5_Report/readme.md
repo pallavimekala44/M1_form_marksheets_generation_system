@@ -23,17 +23,17 @@
 #### 4 Threats
 #### - Privacy issues
 #### - Doing Fraud
-# 4W's and 1'H
-## Who
-### Students can access the site                                             
-## What
-### Overall grade of the students
-## When 
-### When students need their marksheet they can access
-## Where 
-### At present the project execution lunch locally on system
-## How 
-### Based on the research, identifying the features and implementing the requirements in the C programming language and test them to deliverying the product
+## 4W's&1'H
+### Who
+#### Students can access the site                                             
+### What
+#### Overall grade of the students
+### When 
+#### When students need their marksheet they can access
+### Where 
+#### At present the project execution lunch locally on system
+### How 
+#### Based on the research, identifying the features and implementing the requirements in the C programming language and test them to deliverying the product
 ## Detail Requirements
 ### High level requirements
 | ID | Description | Status |
@@ -47,13 +47,11 @@
 | 1 | While accessing the form it wouldn't effect the another user| Implemented |
 | 2 | Processing of data in form should be accurated | Implemented |
 | 3 | Duplicate of user details should be avoided | Implemented |
-
 ## Behavioural Diagram
 ### Usecase Diagram
 ![Use Case](https://user-images.githubusercontent.com/94445728/142796435-f0eadcf1-e0df-4608-8492-2a8459bf294f.png)
 ### Sequence Diagram
 ![Squence](https://user-images.githubusercontent.com/94445728/142800794-ff735744-f61d-4423-9282-68316c51f2d0.png)
-
 ## Structural Diagrams
 ### Class Diagram
 ![Class](https://user-images.githubusercontent.com/94445728/142802468-7aa219da-a08e-441f-b0a0-9f50ad69fca0.png)
@@ -61,7 +59,6 @@
 ![Deployment](https://user-images.githubusercontent.com/94445728/142799393-82f3d547-7098-40ea-9505-e81d0c0f6432.png)
 ### Package Diagram
 ![Package](https://user-images.githubusercontent.com/94445728/142799462-5aa56f92-9ab8-482d-a660-e54179b796f2.png)
-
 ## implementation
 ### Folder Structure
 Folder  | description
