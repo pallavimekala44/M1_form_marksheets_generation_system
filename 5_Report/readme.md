@@ -62,12 +62,12 @@
 ![Package](https://user-images.githubusercontent.com/94445728/142799462-5aa56f92-9ab8-482d-a660-e54179b796f2.png)
 # implementation
 ## Folder Structure
-Folder        | description
---------------| ----------------------------------------------
-`inc`         | All header files
-`src`         | Main source code for marksheet generation
-`test`        | All source code and data for testing purposes
-`build`       | Build output (Not included in git)
+Folder  | description
+--------| ----------------------------------------------
+`inc`   | All header files
+`src`   | Main source code for marksheet generation
+`test`  | All source code and data for testing purposes
+`build` | Build output (Not included in git)
 
 
 
