@@ -19,7 +19,7 @@ $(PROJECT_NAME) : $(SRC)
     gcc $(SRC) -o $(call Fixpath,$(PROJECT_NAME).$(EXEC)
 
 run : $(PROJECT_NAME)
-    ./$(call Fixpath,$(PROJECT_NAME).$(EXEC))
+    ./$(call Fixpath,$(PROJECT_NAME).$(EXEC)))
 
 clean:
     rm -rf *.out
