@@ -48,13 +48,6 @@
 | 2 | Processing of data in form should be accurated | Implemented |
 | 3 | Duplicate of user details should be avoided | Implemented |
 # Architecture
-## Behavioural Diagrams
-### Usecase Diagram
-### Sequence Diagram
-## Structural Diagrams
-### Class Diagram
-### Package Diagram
-### Deployment Diagram
 # Behavioural Diagram
 ## Usecase Diagram
 ![Use Case](https://user-images.githubusercontent.com/94445728/142796435-f0eadcf1-e0df-4608-8492-2a8459bf294f.png)
