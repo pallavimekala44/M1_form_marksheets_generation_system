@@ -23,17 +23,17 @@
 #### 4 Threats
 #### - Privacy issues
 #### - Doing Fraud
-## 4W's and 1'H
-### Who
-#### Students can access the site                                             
-### What
-#### Overall grade of the students
-### When 
-#### When students need their marksheet they can access
-### Where 
-#### At present the project execution lunch locally on system
-### How 
-#### Based on the research, identifying the features and implementing the requirements in the C programming language and test them to deliverying the product
+# 4W's and 1'H
+## Who
+### students can access the site                                             
+## What
+### Overall grade of the students
+## When 
+### When students need their marksheet they can access
+## Where 
+### At present the project execution lunch locally on system
+## How 
+### Based on the research, identifying the features and implementing the requirements in the C programming language and test them to deliverying the product
 ## Detail Requirements
 ### High level requirements
 | ID | Description | Status |
