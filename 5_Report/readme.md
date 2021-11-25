@@ -48,22 +48,22 @@
 | 2 | Processing of data in form should be accurated | Implemented |
 | 3 | Duplicate of user details should be avoided | Implemented |
 
-# Behavioural Diagram
-## Usecase Diagram
+## Behavioural Diagram
+### Usecase Diagram
 ![Use Case](https://user-images.githubusercontent.com/94445728/142796435-f0eadcf1-e0df-4608-8492-2a8459bf294f.png)
-## Sequence Diagram
+### Sequence Diagram
 ![Squence](https://user-images.githubusercontent.com/94445728/142800794-ff735744-f61d-4423-9282-68316c51f2d0.png)
 
-# Structural Diagrams
-## Class Diagram
+## Structural Diagrams
+### Class Diagram
 ![Class](https://user-images.githubusercontent.com/94445728/142802468-7aa219da-a08e-441f-b0a0-9f50ad69fca0.png)
-## Deployment Diagram
+### Deployment Diagram
 ![Deployment](https://user-images.githubusercontent.com/94445728/142799393-82f3d547-7098-40ea-9505-e81d0c0f6432.png)
-## Package Diagram
+### Package Diagram
 ![Package](https://user-images.githubusercontent.com/94445728/142799462-5aa56f92-9ab8-482d-a660-e54179b796f2.png)
 
-# implementation
-## Folder Structure
+## implementation
+### Folder Structure
 Folder  | description
 --------| ----------------------------------------------
 `inc`   |All header files
