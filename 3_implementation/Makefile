@@ -1,6 +1,6 @@
 #Target_name : Dependencies
 #<TAB>command
-PROJECT_NAME = Marks
+PROJECT_NAME = Marks.out
 SRC = main.c
 
 ifdef OS
