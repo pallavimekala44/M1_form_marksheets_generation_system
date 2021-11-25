@@ -1,7 +1,7 @@
 #Target_name : Dependencies
 #<TAB>command
 MARKS = Feauture.out
-main.c = main.c
+SRC = main.c
 
 ifdef OS
     RM = del /q
