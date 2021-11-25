@@ -1,6 +1,6 @@
 #Target_name : Dependencies
 #<TAB>command
-MARKS = Feauture.out
+PROJECT_NAME = Marks
 SRC = main.c
 
 ifdef OS
@@ -16,11 +16,11 @@ else
 endif
 
 
-$(MARKS) : $(main.c)
-    gcc $(main.c) -o $(call Fixpath,$(MARKS).$(EXEC)
+$(PROJECT_NAME) : $(SRC)
+    gcc $(SRC) -o $(call Fixpath,$(PROJECT_NAME).$(EXEC)
 
-run : $(main.c)
-    ./$(call Fixpath,$(Marks).$(EXEC))
+run : $(PROJECT_NAME)
+    ./$(call Fixpath,$(PROJECY_NAME).$(EXEC))
 
 clean:
     rm -rf *.out
